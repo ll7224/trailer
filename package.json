@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/ll7224/trailer#readme",
   "dependencies": {
-    "koa": "^2.6.2"
+    "ejs": "^2.6.1",
+    "koa": "^2.6.2",
+    "koa-views": "^6.1.4",
+    "pug": "^2.0.3"
   }
 }
